@@ -1,0 +1,67 @@
+category,complaint,priority
+Billing & Payments,I was charged twice for the same order,High
+Billing & Payments,My bill has an extra fee that I did not agree to,Medium
+Billing & Payments,Please refund the payment taken after I cancelled,High
+Billing & Payments,The invoice total is different from the checkout total,Medium
+Billing & Payments,I cannot download my payment receipt,Low
+Billing & Payments,My card was debited but the order failed,High
+Billing & Payments,There is a payment on my account that I do not recognise,High
+Billing & Payments,The subscription renewal amount looks incorrect,Medium
+Billing & Payments,I need an explanation of this service charge,Low
+Billing & Payments,My refund has not arrived yet,High
+Billing & Payments,I was billed for a service I never used,High
+Billing & Payments,How can I update my billing details,Low
+Delivery & Shipping,My package has not arrived on the promised date,High
+Delivery & Shipping,The tracking page has not changed for four days,Medium
+Delivery & Shipping,The courier delivered my parcel to the wrong address,High
+Delivery & Shipping,The item arrived with damaged packaging,Medium
+Delivery & Shipping,I want to know when my order will be delivered,Low
+Delivery & Shipping,The delivery agent did not contact me,Medium
+Delivery & Shipping,My order says delivered but I did not receive it,High
+Delivery & Shipping,The shipment has been delayed again,Medium
+Delivery & Shipping,Please change my delivery time slot,Low
+Delivery & Shipping,My parcel is missing and nobody is helping me,High
+Delivery & Shipping,Can I update the address before dispatch,Low
+Delivery & Shipping,The courier left my package outside in the rain,High
+Technical Support,The mobile application crashes whenever I open it,High
+Technical Support,I cannot log in even after resetting my password,High
+Technical Support,The website shows an internal server error,High
+Technical Support,The checkout button is not working,Medium
+Technical Support,The page loads very slowly on my phone,Medium
+Technical Support,I am unable to upload a document,Medium
+Technical Support,The app keeps logging me out,Medium
+Technical Support,I found a broken link on the help page,Low
+Technical Support,Notifications are not appearing on my device,Low
+Technical Support,The latest update made the application freeze,High
+Technical Support,I cannot connect my account to the application,Medium
+Technical Support,The search feature returns no results,Low
+Product Quality,The product stopped working after two days,High
+Product Quality,The material quality is worse than advertised,Medium
+Product Quality,The package contained a defective item,High
+Product Quality,The product is missing an important component,Medium
+Product Quality,The size and specifications are different from the listing,Medium
+Product Quality,The device overheats while charging,High
+Product Quality,The colour is slightly different from the picture,Low
+Product Quality,The product makes a strange noise when switched on,High
+Product Quality,The instruction manual was missing from the box,Low
+Product Quality,The product feels cheap and poorly made,Medium
+Account & Security,Someone tried to access my account without permission,High
+Account & Security,I think my account has been hacked,High
+Account & Security,I cannot verify my email address,Medium
+Account & Security,Please help me change the phone number on my profile,Low
+Account & Security,I am locked out of my account,High
+Account & Security,I received a password reset email I did not request,High
+Account & Security,I want to update my profile information,Low
+Account & Security,My account was suspended and I need help,Medium
+Account & Security,I cannot enable two factor authentication,Medium
+Account & Security,Please close my old account,Low
+General Enquiry,Where can I find your return policy,Low
+General Enquiry,Can you explain how the membership works,Low
+General Enquiry,I need information about your business hours,Low
+General Enquiry,Do you offer student discounts,Low
+General Enquiry,I would like to speak with a customer service representative,Medium
+General Enquiry,Can you tell me which plans are available,Low
+General Enquiry,I have a question about the terms and conditions,Low
+General Enquiry,Please guide me through the registration process,Low
+General Enquiry,I need help understanding how this service works,Low
+General Enquiry,I would like to share feedback about your service,Low
